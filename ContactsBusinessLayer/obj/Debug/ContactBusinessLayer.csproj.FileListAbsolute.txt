@@ -1,0 +1,9 @@
+C:\Users\user1\source\repos\ContactBusinessLayer\bin\Debug\ContactBusinessLayer.dll
+C:\Users\user1\source\repos\ContactBusinessLayer\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\user1\source\repos\ContactBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\user1\source\repos\ContactBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\user1\source\repos\ContactBusinessLayer\obj\Debug\ContactBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\ContactBusinessLayer\obj\Debug\ContactBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\ContactBusinessLayer\obj\Debug\ContactB.3FFCD67B.Up2Date
+C:\Users\user1\source\repos\ContactBusinessLayer\obj\Debug\ContactBusinessLayer.dll
+C:\Users\user1\source\repos\ContactBusinessLayer\obj\Debug\ContactBusinessLayer.pdb
